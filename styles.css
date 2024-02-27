@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+h2, h3 {
+    text-decoration: underline;
+    background-color: rgb(215, 215, 215);
+}
+
+.links li {
+    padding-bottom: 5px;
+    font-style: italic;
+}
+
+img {
+    border-radius: 15px;
+}

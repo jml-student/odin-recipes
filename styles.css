@@ -7,6 +7,8 @@ h1 {
     background-color: black;
     color: white;
     padding: 20px;
+    margin: -8px;
+    border-bottom: 5px solid rgb(197, 197, 197);
 }
 
 h2, h3 {
@@ -14,9 +16,30 @@ h2, h3 {
     background-color: rgb(215, 215, 215);
 }
 
+.links {
+    margin-top: 30px;
+}
+
 .links li {
-    padding-bottom: 5px;
+    padding: 10px;
     font-style: italic;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.potato-omelette {
+    background-color: rgb(255, 255, 125);
+    border-radius: 15px;
+}
+
+.croquette {
+    background-color: rgb(255, 191, 72);
+    border-radius: 15px;
+}
+
+.cheesecake {
+    background-color: bisque;
+    border-radius: 15px;
 }
 
 img {
